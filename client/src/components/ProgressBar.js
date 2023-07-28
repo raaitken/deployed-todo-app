@@ -4,4 +4,4 @@ const ProgressBar = () => {
     );
 }
  
-export default ProgressBar1;
+export default ProgressBar;
